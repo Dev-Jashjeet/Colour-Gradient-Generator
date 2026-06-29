@@ -14,6 +14,7 @@ function App() {
         <Route path="/contact/agam?" element={<h1>Contact</h1>}/>
         {/* <Route path="/*" element={<h2>Page Not Found <hr /> 4O4 Error</h2>}/> */}
         <Route path="/*" element={<Navigate to="/"/>}/>
+        <h5></h5>
       </Routes>
     </>
   )
