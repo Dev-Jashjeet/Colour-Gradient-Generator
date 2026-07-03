@@ -8,12 +8,10 @@ A modern **Gradient Generator** built with **React** and **TypeScript** that let
 - Multiple color stops
 - Live gradient preview
 - Copy CSS instantly
-- Responsive UI
 - Toast notifications
 
 ## 🛠️ Tech Stack
 
-- HTML
 - React
 - TypeScript
 - TailwindCSS
